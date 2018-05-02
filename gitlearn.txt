@@ -1,1 +1,4 @@
 https://www.cnblogs.com/wangmingshun/p/5424767.html
+
+关联本地库和远程库的命令
+$ git remote add origin https://github.com/wangmingshun/studygit.git
